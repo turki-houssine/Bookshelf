@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="search_hint">Rechercher des livres</string>
+    <string name="search_action">Rechercher</string>
+    <string name="loading">Chargement des livres…</string>
+    <string name="loading_failed">Impossible de charger les livres. Vérifiez votre connexion.</string>
+    <string name="retry">Réessayer</string>
+    <string name="no_results">Aucun livre trouvé pour cette recherche.</string>
+    <string name="book_cover_description">Couverture de %1$s</string>
+    <string name="untitled">Sans titre</string>
+</resources>
